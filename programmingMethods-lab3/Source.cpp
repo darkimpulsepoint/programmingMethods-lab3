@@ -268,7 +268,7 @@ void task3() {
 
     string n_str;
 
-    cout << "Введите n: " << endl;
+    cout << "Введите n или n!:" << endl;
     cin >> n_str;
 
     size_t screamerPos = n_str.find("!");
